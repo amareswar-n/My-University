@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "Lannister"
+    },
+    {
+      "id": "Tully"
+    },
+    {
+      "id": "Baratheon"
+    },
+    {
+      "id": "Stark"
+    },
+    {
+      "id": "Darry"
+    },
+    {
+      "id": "Greyjoy"
+    },
+    {
+      "id": "Bolton"
+    },
+    {
+      "id": "Brotherhood without Banners"
+    },
+    {
+      "id": "Brave Companions"
+    },
+    {
+      "id": "Frey"
+    },
+    {
+      "id": "Mallister"
+    },
+    {
+      "id": "Free folk"
+    },
+    {
+      "id": "Night's Watch"
+    },
+    {
+      "id": "Tyrell"
+    },
+    {
+      "id": "Bracken"
+    },
+    {
+      "id": "Blackwood"
+    }
+  ],
+  "edges": [
+    { "from": "Lannister", "to": "Tully" },
+    { "from": "Lannister", "to": "Baratheon" },
+    { "from": "Stark", "to": "Lannister" },
+    { "from": "Lannister", "to": "Darry" },
+    { "from": "Greyjoy", "to": "Stark" },
+    { "from": "Stark", "to": "Greyjoy" },
+    { "from": "Bolton", "to": "Stark" },
+    { "from": "Baratheon", "to": "Lannister" },
+    { "from": "Darry", "to": "Lannister" },
+    { "from": "Brotherhood without Banners", "to": "Brave Companions" },
+    { "from": "Lannister", "to": "Stark" },
+    { "from": "Lannister", "to": "Brave Companions" },
+    { "from": "Frey", "to": "Stark" },
+    { "from": "Frey", "to": "Mallister" },
+    { "from": "Free folk", "to": "Night's Watch" },
+    { "from": "Free folk", "to": "Baratheon" },
+    { "from": "Bolton", "to": "Greyjoy" },
+    { "from": "Baratheon", "to": "Greyjoy" },
+    { "from": "Greyjoy", "to": "Tyrell" },
+    { "from": "Bracken", "to": "Blackwood" },
+    { "from": "Baratheon", "to": "Bolton" },
+    { "from": "Baratheon", "to": "Frey" }
+  ]
+}
