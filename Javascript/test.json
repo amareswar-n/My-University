@@ -1,0 +1,21 @@
+{
+  "nodes": [
+     {
+      "id": "AmAr"
+    },
+    {
+      "id": "AmAr1"
+    },
+    {
+      "id": "AmAr2"
+    },
+    {
+      "id": "AmAr3"
+    }
+  ],
+  "edges": [
+    { "from": "AmAr", "to": "AmAr1" },
+    { "from": "AmAr", "to": "AmAr2" },
+    { "from": "AmAr", "to": "AmAr3" }
+  ]
+}
