@@ -1,17 +1,62 @@
 {
   "nodes": [
      {
-      "id": "AmAr"
+      "id": "Prod_enr.acct_detl"
     },
     {
-      "id": "AmAr1"
+      "id": "Prod_enr.acct_paty"
     },
     {
-      "id": "AmAr2"
+      "id": "Prod_enr.acct_lend"
     },
     {
-      "id": "AmAr3"
+      "id": "Prod_oal.bv_rbs_ccr_btch_head_mnly"
     }
+	    {
+      "id": "Prod_enr.map_rbs_ccr_slct_rule"
+    }
+	    {
+      "id": "Prod_enr.map_rbs_ccr_syst_pdct_rule"
+    }
+	    {
+      "id": "Prod_dil_bcb.bcb_acct_ak2t1151"
+    }
+	    {
+      "id": "Prod_oal.bv_rbs_ccr_acct_mnly"
+    }
+	    {
+      "id": "Prod_oal.bv_rbs_ccr_paty_mnly"
+    }
+	    {
+      "id": "Prod_oal.bv_rbs_ccr_paty_mnly"
+    }
+	    {
+      "id": "Prod_oal.bv_rbs_ccr_sply_data_vald_rslt"
+    }
+		    {
+      "id": "Prod_enr.map_ccr_sply_data_rule_detl"
+    }
+		    {
+      "id": "Prod_dil_bcb.bcb_acct_ireg_data_ak2t12u1_v1"
+    }	    {
+      "id": "Prod_dil_bcb.bcb_acct_limt_ak2t19i1"
+    }
+		    {
+      "id": "Prod_enr.map_rbs_ccr_slct_rule"
+    }
+		    {
+      "id": "Prod_dil_bcb.bcb_acct_stic_detl_ak2t11i1"
+    }
+		    {
+      "id": "Prod_dil_btc.btc_acct_bwa_info_mstr_acraimai_acraimas_v1"
+    }
+			    {
+      "id": "Prod_dil_bcb.bcb_acct_mgmt_tral_cmmt_ak2t15h1_hist"
+    }
+			    {
+      "id": "Prod_dil_bcb.bcb_pdct_basl_grup_assg_ak2t1j51_hist"
+    }
+	
   ],
   "edges": [
     { "from": "AmAr", "to": "AmAr1" },
@@ -19,3 +64,6 @@
     { "from": "AmAr", "to": "AmAr3" }
   ]
 }
+
+
+
