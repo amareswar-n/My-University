@@ -1,4 +1,5 @@
-{"nodes": 
+{
+"nodes": 
 	[
 		{ "id": "Prod_enr.acct_detl"},
 		{ "id": "Prod_enr.acct_paty"},
@@ -7,10 +8,10 @@
 		{ "id": "acct_paty_bcb_extract"},
 		{ "id": "bcb_acct_lend"}
 	],
-	"edges": 
+"edges": 
 	[
-		{ "from": "Prod_enr.acct_detl", "to": "acct_detl_bcb_extract" },
-		{ "from": "Prod_enr.acct_paty", "to": "acct_paty_bcb_extract" },
-		{ "from": "Prod_enr.acct_lend", "to": "bcb_acct_lend" }
+		{ "from": "Prod_enr.acct_detl", "to": "acct_detl_bcb_extract"},
+		{ "from": "acct_detl_bcb_extract", "to": "acct_paty_bcb_extract"},
+		{ "from": "acct_paty_bcb_extract", "to": "bcb_acct_lend"}
 	]
 }
