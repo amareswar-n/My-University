@@ -1,8 +1,6 @@
-{
-  "nodes": [
-     {
-      "id": "Prod_enr.acct_detl"
-    },
+{ "nodes": 
+ [
+ {"id": "Prod_enr.acct_detl" },
     {
       "id": "Prod_enr.acct_paty"
     },
@@ -57,12 +55,5 @@
       "id": "Prod_dil_bcb.bcb_pdct_basl_grup_assg_ak2t1j51_hist"
     }
 	
-  ],
-  "edges": [
-    { "from": "bcb_acct_limt_ak2t19i1_extract", "to": "bcb_acct_limt_ak2t19i1" },
-    { "from": "bcb_acct_lend", "to": "bcb_acct_lend_extract" },
-    { "from": "bcb_acct_limt_ak2t19i1_extract", "to": "bcb_acct_lend_extract" }
-    { "from": "pdct_rule_ltst", "to": "bcb_acct_lend_extract" }
-    { "from": "bcb_ak2t1j51_hist", "to": "bcb_acct_lend_extract" }
   ]
 }
