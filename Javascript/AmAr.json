@@ -1,15 +1,16 @@
-{
-  "nodes": 
-  [
-    { "id": "Prod_enr.acct_detl"},
-	{ "id": "Prod_enr.acct_paty"},
-    { "id": "Prod_enr.acct_lend"}
-	
-  ],
-  "edges": 
-  [
-    { "from": "Prod_enr.acct_detl", "to": "acct_detl_bcb_extract" },
-    { "from": "Prod_enr.acct_paty", "to": "acct_paty_bcb_extract" },
-    { "from": "Prod_enr.acct_lend", "to": "bcb_acct_lend" }
-  ]
+{"nodes": 
+	[
+		{ "id": "Prod_enr.acct_detl"},
+		{ "id": "Prod_enr.acct_paty"},
+		{ "id": "Prod_enr.acct_lend"},
+		{ "id": "acct_detl_bcb_extract"},
+		{ "id": "acct_paty_bcb_extract"},
+		{ "id": "bcb_acct_lend"}
+	],
+	"edges": 
+	[
+		{ "from": "Prod_enr.acct_detl", "to": "acct_detl_bcb_extract" },
+		{ "from": "Prod_enr.acct_paty", "to": "acct_paty_bcb_extract" },
+		{ "from": "Prod_enr.acct_lend", "to": "bcb_acct_lend" }
+	]
 }
