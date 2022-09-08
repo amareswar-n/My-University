@@ -1,0 +1,28 @@
+Python is easy!
+
+You can learn enough Python in <8 hours to pick the rest up with active practice.
+
+Here are my top 5 free places to catch the basics:
+
+*1. Codeacademy (where I first learnt Python) -
+https://lnkd.in/eZnqKD_x
+
+*2 MITx 6.0001 (this series is a brilliant intro to CS) -
+https://lnkd.in/eeBXsQqr
+
+3/ Think Python (has great exercises) -
+https://lnkd.in/eWN9sff8
+
+4/ Automate the Boring Stuff (use what you learn!) -
+https://lnkd.in/e-UnwRj3
+
+5/ Python 4 Everybody (really well put together course)
+https://www.py4e.com/
+
+These are all solid resources.
+
+You'll pick up enough to start making sense of things and be able to Google the rest as you learn.
+
+And after a short while, you'll start to see where it gets tough and what the difficult parts of mastering the language are.
+
+But that's a post for another day.
