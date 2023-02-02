@@ -1,3 +1,5 @@
+REFRENCE: https://stackoverflow.com/questions/1026483/is-there-a-way-to-crack-the-password-on-an-excel-vba-project
+
 Open the file(s) that contain your locked VBA Projects.
 
 Create a new file with the same type as the above and store this code in Module1
