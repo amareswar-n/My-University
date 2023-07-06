@@ -1,5 +1,4 @@
 # DataUniversity
-My data related stuff goes here
 
 In today's data-driven world, there are various professionals who specialize in working with data to gain valuable insights.
 If you're interested in a career in data or want to collaborate with data experts, it's important to understand the different roles and specialties within this field.
